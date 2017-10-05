@@ -1,1 +1,1 @@
-# RozpoznawanieGestow
+# projekt-inzynierski

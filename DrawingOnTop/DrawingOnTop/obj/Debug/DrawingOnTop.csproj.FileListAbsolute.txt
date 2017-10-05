@@ -1,0 +1,9 @@
+j:\documents\visual studio 2015\Projects\DrawingOnTop\DrawingOnTop\bin\Debug\DrawingOnTop.exe.config
+j:\documents\visual studio 2015\Projects\DrawingOnTop\DrawingOnTop\obj\Debug\DrawingOnTop.Properties.Resources.resources
+j:\documents\visual studio 2015\Projects\DrawingOnTop\DrawingOnTop\obj\Debug\DrawingOnTop.csproj.GenerateResource.Cache
+J:\Documents\Visual Studio 2015\Projects\DrawingOnTop\DrawingOnTop\bin\Debug\DrawingOnTop.exe
+J:\Documents\Visual Studio 2015\Projects\DrawingOnTop\DrawingOnTop\bin\Debug\DrawingOnTop.pdb
+J:\Documents\Visual Studio 2015\Projects\DrawingOnTop\DrawingOnTop\obj\Debug\rysowanie.Form1.resources
+J:\Documents\Visual Studio 2015\Projects\DrawingOnTop\DrawingOnTop\obj\Debug\DrawingOnTop.exe
+J:\Documents\Visual Studio 2015\Projects\DrawingOnTop\DrawingOnTop\obj\Debug\DrawingOnTop.pdb
+J:\Documents\Visual Studio 2015\Projects\DrawingOnTop\DrawingOnTop\obj\Debug\DrawingOnTop.csprojResolveAssemblyReference.cache

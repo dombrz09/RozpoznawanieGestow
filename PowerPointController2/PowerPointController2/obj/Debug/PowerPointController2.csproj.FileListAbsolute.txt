@@ -1,0 +1,10 @@
+c:\users\dominika\documents\visual studio 2015\Projects\PowerPointController2\PowerPointController2\bin\Debug\PowerPointController2.exe.config
+c:\users\dominika\documents\visual studio 2015\Projects\PowerPointController2\PowerPointController2\obj\Debug\PowerPointController2.csprojResolveAssemblyReference.cache
+c:\users\dominika\documents\visual studio 2015\Projects\PowerPointController2\PowerPointController2\obj\Debug\PowerPointController2.csproj.ResolveComReference.cache
+c:\users\dominika\documents\visual studio 2015\Projects\PowerPointController2\PowerPointController2\obj\Debug\PowerPointController2.Form1.resources
+c:\users\dominika\documents\visual studio 2015\Projects\PowerPointController2\PowerPointController2\obj\Debug\PowerPointController2.Properties.Resources.resources
+c:\users\dominika\documents\visual studio 2015\Projects\PowerPointController2\PowerPointController2\obj\Debug\PowerPointController2.csproj.GenerateResource.Cache
+c:\users\dominika\documents\visual studio 2015\Projects\PowerPointController2\PowerPointController2\bin\Debug\PowerPointController2.exe
+c:\users\dominika\documents\visual studio 2015\Projects\PowerPointController2\PowerPointController2\bin\Debug\PowerPointController2.pdb
+c:\users\dominika\documents\visual studio 2015\Projects\PowerPointController2\PowerPointController2\obj\Debug\PowerPointController2.exe
+c:\users\dominika\documents\visual studio 2015\Projects\PowerPointController2\PowerPointController2\obj\Debug\PowerPointController2.pdb

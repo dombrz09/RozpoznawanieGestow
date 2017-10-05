@@ -1,0 +1,64 @@
+﻿<UserControl x:Class="Gestures.Drawing3DUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Gestures"
+             PreviewKeyDown="Window_PreviewKeyDown" KeyDown="Window_KeyDown" Cursor="None" ForceCursor="True">
+
+    <UserControl.Resources>
+        <Style x:Key="NavigationButton" TargetType="Button">
+            <Setter Property="Background" Value="#FF4F4F4F"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Background="{TemplateBinding Background}" BorderBrush="#FF4F4F4F" BorderThickness="1">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#585858"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+    </UserControl.Resources>
+    
+    
+    <Grid Background="Black" MouseWheel="Grid_MouseWheel"
+		MouseDown="Grid_MouseDown" MouseUp="Grid_MouseUp"
+		MouseMove="Grid_MouseMove" Cursor="None" ForceCursor="True">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition  Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Wczytaj model" Style="{StaticResource NavigationButton}" Click="Load_3D" Grid.Row="0" Grid.Column="0" Width="100" Height="50" Margin="0,10,0,0" Foreground="#ffffff"/>
+
+        <Viewport3D x:Name="viewport" Grid.Row="1" Grid.Column="0" KeyDown="viewport_KeyDown" PreviewKeyDown="viewport_PreviewKeyDown">
+            <Viewport3D.Camera>
+                <PerspectiveCamera x:Name="camera" FarPlaneDistance="50" LookDirection="0,0,-10"
+					UpDirection="0,1,0" NearPlaneDistance="0" Position="0,0,8"
+					FieldOfView="90" />
+            </Viewport3D.Camera>
+
+
+            <ModelVisual3D x:Name="model">
+                <ModelVisual3D.Content>
+                    <Model3DGroup x:Name="group">
+                        <!--<PointLight Color="White" Position="-10,-10,-10" />-->
+                        <!--<SpotLight Color="White" Position="-10,-10,-10"></SpotLight>-->
+                        <AmbientLight Color="DarkGray" />
+                        <!--<DirectionalLight Color="White" Direction="-10,-10,-10" />-->
+                        <PointLight x:Name="light" Color="White" Position="2,5,10"></PointLight>
+                    </Model3DGroup>
+                </ModelVisual3D.Content>
+            </ModelVisual3D>
+        </Viewport3D>
+    </Grid>
+</UserControl>
