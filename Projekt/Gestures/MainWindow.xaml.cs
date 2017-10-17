@@ -12,7 +12,6 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Diagnostics;
-using System;
 using System.IO;
 
 namespace Gestures
@@ -26,7 +25,7 @@ namespace Gestures
         Microsoft.Win32.OpenFileDialog ofd = new Microsoft.Win32.OpenFileDialog();
 
         public MainWindow()
-        {   
+        {
             InitializeComponent();
         }
 
@@ -53,8 +52,9 @@ namespace Gestures
                 {
                     System.IO.DirectoryInfo dir = System.IO.Directory.CreateDirectory(this.pathDir);
                 }
+                
                 ConvertPDFToJPG(ofd.FileName, this.pathDir);
-
+                
                 PDFPresentation pdfp = new PDFPresentation(pathDir);
                 pdfp.ShowDialog();
             }
@@ -62,10 +62,8 @@ namespace Gestures
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            Drawing3D d3d = new Drawing3D();
-            d3d.ShowDialog();
+            
         }
-
         private void ButtonAdobeReader_Click(object sender, RoutedEventArgs e)
         {
             Process.Start(Directory.GetCurrentDirectory()+"../../../../../Programy/AdobeReaderController/AdobeReaderController/bin/Debug/AdobeReaderController.exe");
