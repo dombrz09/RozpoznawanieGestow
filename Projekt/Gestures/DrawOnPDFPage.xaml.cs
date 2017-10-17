@@ -244,8 +244,7 @@ namespace Gestures
 
         public void Drawing3D_Click(object sender, RoutedEventArgs e)
         {
-            Drawing3D d3d = new Drawing3D();
-            d3d.ShowDialog();
+            
         }
 
         public void ColorMain_Click(object sender, RoutedEventArgs e)
