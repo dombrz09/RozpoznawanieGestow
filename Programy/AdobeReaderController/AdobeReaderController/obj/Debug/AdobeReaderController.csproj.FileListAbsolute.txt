@@ -1,0 +1,29 @@
+c:\users\dominika\documents\visual studio 2015\Projects\AdobeReaderController\AdobeReaderController\bin\Debug\AdobeReaderController.exe.config
+c:\users\dominika\documents\visual studio 2015\Projects\AdobeReaderController\AdobeReaderController\bin\Debug\AdobeReaderController.exe
+c:\users\dominika\documents\visual studio 2015\Projects\AdobeReaderController\AdobeReaderController\bin\Debug\AdobeReaderController.pdb
+c:\users\dominika\documents\visual studio 2015\Projects\AdobeReaderController\AdobeReaderController\bin\Debug\Interop.AcroPDFLib.dll
+c:\users\dominika\documents\visual studio 2015\Projects\AdobeReaderController\AdobeReaderController\bin\Debug\AxInterop.AcroPDFLib.dll
+c:\users\dominika\documents\visual studio 2015\Projects\AdobeReaderController\AdobeReaderController\obj\Debug\AdobeReaderController.csprojResolveAssemblyReference.cache
+c:\users\dominika\documents\visual studio 2015\Projects\AdobeReaderController\AdobeReaderController\obj\Debug\Interop.AcroPDFLib.dll
+c:\users\dominika\documents\visual studio 2015\Projects\AdobeReaderController\AdobeReaderController\obj\Debug\AxInterop.AcroPDFLib.dll
+c:\users\dominika\documents\visual studio 2015\Projects\AdobeReaderController\AdobeReaderController\obj\Debug\AdobeReaderController.csproj.ResolveComReference.cache
+c:\users\dominika\documents\visual studio 2015\Projects\AdobeReaderController\AdobeReaderController\obj\Debug\AdobeReaderController.Form1.resources
+c:\users\dominika\documents\visual studio 2015\Projects\AdobeReaderController\AdobeReaderController\obj\Debug\AdobeReaderController.Properties.Resources.resources
+c:\users\dominika\documents\visual studio 2015\Projects\AdobeReaderController\AdobeReaderController\obj\Debug\AdobeReaderController.csproj.GenerateResource.Cache
+c:\users\dominika\documents\visual studio 2015\Projects\AdobeReaderController\AdobeReaderController\obj\Debug\AdobeReaderController.exe
+c:\users\dominika\documents\visual studio 2015\Projects\AdobeReaderController\AdobeReaderController\obj\Debug\AdobeReaderController.pdb
+D:\IT\RozpoznawanieGestow\RozpoznawanieGestow\AdobeReaderController\AdobeReaderController\bin\Debug\AdobeReaderController.exe.config
+D:\IT\RozpoznawanieGestow\RozpoznawanieGestow\AdobeReaderController\AdobeReaderController\bin\Debug\AdobeReaderController.exe
+D:\IT\RozpoznawanieGestow\RozpoznawanieGestow\AdobeReaderController\AdobeReaderController\bin\Debug\AdobeReaderController.pdb
+D:\IT\RozpoznawanieGestow\RozpoznawanieGestow\AdobeReaderController\AdobeReaderController\bin\Debug\Interop.AcroPDFLib.dll
+D:\IT\RozpoznawanieGestow\RozpoznawanieGestow\AdobeReaderController\AdobeReaderController\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\IT\RozpoznawanieGestow\RozpoznawanieGestow\AdobeReaderController\AdobeReaderController\obj\Debug\Interop.AcroPDFLib.dll
+D:\IT\RozpoznawanieGestow\RozpoznawanieGestow\AdobeReaderController\AdobeReaderController\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\IT\RozpoznawanieGestow\RozpoznawanieGestow\AdobeReaderController\AdobeReaderController\obj\Debug\AdobeReaderController.csproj.ResolveComReference.cache
+D:\IT\RozpoznawanieGestow\RozpoznawanieGestow\AdobeReaderController\AdobeReaderController\obj\Debug\AdobeReaderController.Form1.resources
+D:\IT\RozpoznawanieGestow\RozpoznawanieGestow\AdobeReaderController\AdobeReaderController\obj\Debug\AdobeReaderController.Properties.Resources.resources
+D:\IT\RozpoznawanieGestow\RozpoznawanieGestow\AdobeReaderController\AdobeReaderController\obj\Debug\AdobeReaderController.csproj.GenerateResource.Cache
+D:\IT\RozpoznawanieGestow\RozpoznawanieGestow\AdobeReaderController\AdobeReaderController\obj\Debug\AdobeReaderController.csproj.CoreCompileInputs.cache
+D:\IT\RozpoznawanieGestow\RozpoznawanieGestow\AdobeReaderController\AdobeReaderController\obj\Debug\AdobeReaderController.exe
+D:\IT\RozpoznawanieGestow\RozpoznawanieGestow\AdobeReaderController\AdobeReaderController\obj\Debug\AdobeReaderController.pdb
+D:\IT\RozpoznawanieGestow\RozpoznawanieGestow\AdobeReaderController\AdobeReaderController\obj\Debug\AdobeReaderController.csprojResolveAssemblyReference.cache
